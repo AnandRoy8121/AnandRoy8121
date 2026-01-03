@@ -7,7 +7,7 @@
 
   
 
-I’m a software engineer with 5+ years of experience building production-grade automation systems and full-stack web applications across Banking, Retail, and IT domains.
+I’m a software engineer with 6+ years of experience building production-grade automation systems and full-stack web applications across Banking, Retail, and IT domains.
 
   
 
