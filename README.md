@@ -1,228 +1,61 @@
-
 # 👋 Hi, I’m Anand Roy
 
-  
+**Full Stack Software Engineer | React • Next.js • Node.js | Web & Mobile Applications**
 
-**Full Stack Software Engineer | React • Next.js • Node.js | Automation & Web Systems**
+I’m a Full Stack Developer with **5+ years of professional experience** building **production-grade automation systems and modern web applications** across Banking, Retail, and IT domains.
 
-  
+I specialize in designing **role-based dashboards**, scalable frontend architectures, and API-driven backend systems — with strong ownership from development to deployment.
 
-I’m a software engineer with 6+ years of experience building production-grade automation systems and full-stack web applications across Banking, Retail, and IT domains.
+---
 
-  
+## 🚀 What I Work With
 
-I specialize in designing scalable, role-based applications, modern dashboards, and API-driven systems — combining frontend excellence with backend reliability.
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, REST APIs, Authentication & Authorization  
+- **Mobile:** React Native  
+- **Automation:** UiPath, Python  
+- **Data & Tools:** SQL, MongoDB, Power BI, GitHub, Cloud Hosting  
 
-  
+I actively use **AI-assisted development tools** to accelerate delivery, while fully owning architecture decisions, business logic, customization, and debugging.
 
-# 🚀 What I Do Best
+---
 
-  
+## 🧩 Featured Project
 
-🔹 Build full-stack web applications using React, Next.js, Node.js, and TypeScript
-
-  
-
-🔹 Design admin & role-based dashboards with real business workflows
-
-  
-
-🔹 Develop REST APIs, authentication systems, and backend services
-
-  
-
-🔹 Build mobile applications using React Native
-
-  
-
-🔹 Automate complex business processes using UiPath & Python
-
-  
-
-  
-
-# 🧩 Featured Project
-
-🏭 Shiv Ganga Industries – Ecommerce website with admin dashboard and distributor management
-
-  
-
-🌐 Live: https://sgidrink.com
-
-  
-
-💻 Web Code: https://github.com/AnandRoy8121/ShivGangaIndustries
-
-  
-
-📱 Mobile Code: https://github.com/AnandRoy8121/baikalsmartmobile
-
-  
+### 🏭 Shiv Ganga Industries – Distribution Management Platform
+🌐 Live: https://sgidrink.com  
+💻 Web Repo: https://github.com/AnandRoy8121/ShivGangaIndustries  
+📱 Mobile Repo: https://github.com/AnandRoy8121/baikalsmartmobile  
 
 **Highlights:**
+- Full-stack system with **Admin & Distributor dashboards**
+- Role-based authentication and access control
+- Web + Mobile application integration
+- Real-world business workflows and reporting
+- Built with **React, Next.js, Node.js, and React Native**
 
-  
+This project was designed and developed end-to-end with a focus on **scalability, maintainability, and real production use cases**.
 
-Full-stack system with Admin & Distributor dashboards
+---
 
-  
+## 💡 How I Work
 
-Role-based authentication & access control
+- Think in **systems**, not just features  
+- Focus on **clean, maintainable, production-ready code**  
+- Comfortable debugging complex issues end-to-end  
+- Strong at translating business requirements into technical solutions  
 
-  
+---
 
-Web + Mobile app integration
+## 📫 Let’s Connect
 
-  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anandroy1  
+- 🌐 Portfolio: https://anandroy.com  
+- 📧 Email: anandroy151997@gmail.com  
 
-Real-world business workflows
+---
 
-  
+## 🔍 Keywords (Recruiter Search Optimization)
 
-Built using React, Next.js, Node.js, and React Native
-
-  
-
-Designed and developed end-to-end with a focus on scalability, clean architecture, and real production use cases.
-
-  
-
-# 🛠 Tech Stack
-
-  **FrontEnd**
-
-React
-
-Next.js
-
-TypeScript
-
-Tailwind CSS
-
-**Backend**
-
-  
-
-Node.js
-
-  
-
-REST APIs
-
-  
-
-Authentication & Authorization
-
-  
-
-**Mobile**
-
-  
-
-React Native
-
-  
-
-**Automation & Data**
-
-  
-
-UiPath
-
-  
-
-Python
-
-  
-
-Power BI
-
-  
-
-SQL / MongoDB
-
-  
-
-Tools & Platforms
-
-  
-
-GitHub
-
-  
-
-Vercel / Cloud Hosting
-
-  
-
-AI-assisted development tools
-
-  
-
-# 📈 Why Work With Me?
-
-  
-
-✔ 6+ years of real-world delivery experience
-
-  
-
-✔ Strong ownership of end-to-end systems
-
-  
-
-✔ Ability to bridge business & technical requirements
-
-  
-
-✔ Experience with enterprise automation + modern web development
-
-  
-
-✔ Clean, maintainable, production-focused coding approach
-
-  
-
-# 📫 Let’s Connect
-
-  
-
-🔗 LinkedIn: https://www.linkedin.com/in/anandroy1
-
-  
-
-🌐 Portfolio: https://anandroy8121.github.io/anand-roy/
-
-  
-
-📧 Email: anandroy151997@gmail.com
-
-  
-
-<!--Full Stack Developer
-
-React Developer
-
-Next.js Developer
-
-Node.js Developer
-
-JavaScript Engineer
-
-TypeScript Developer
-
-React Native Developer
-
-Software Engineer
-
-Web Developer
-
-Automation Engineer -->
-
-  
-
-⭐ Fun Fact
-
-  
-
-I enjoy turning complex business problems into simple, scalable software solutions — and I never stop learning.
+Full Stack Developer · React Developer · Next.js Developer · Node.js Developer ·  
+JavaScript Engineer · TypeScript Developer · React Native Developer · Software Engineer
