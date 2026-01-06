@@ -50,7 +50,7 @@ This project was designed and developed end-to-end with a focus on **scalability
 ## 📫 Let’s Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/anandroy1  
-- 🌐 Portfolio: https://anandroy.com  
+- 🌐 Portfolio: https://anandroy8121.github.io/anand-roy/
 - 📧 Email: anandroy151997@gmail.com  
 
 ---
